@@ -1,1 +1,1 @@
-# ProbabilisticReasoning-WMC
+# Probabilistic Reasoning via Weighted Model Counting
