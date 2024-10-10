@@ -22,6 +22,6 @@ Python
 
 ## Files
 * Code:
-  
+  - `code.ipynb`: Jupyter notebook that runs the project.
 
 ---
