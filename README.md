@@ -15,10 +15,10 @@ Two datasets from the BNLearn package were used:
 
 
 ## Methods
-- Heuristic followed from Sang et al. 2005
+* Heuristic followed from Sang et al. 2005
 
 ## Software
-Python
+Python (bnlearn, PySAT, Pandas)
 
 ## Files
 * Code:
